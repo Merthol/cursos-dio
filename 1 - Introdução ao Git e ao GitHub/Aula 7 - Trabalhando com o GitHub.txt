@@ -1,0 +1,15 @@
+Comandos:
+- git config --list				- Lista as configurações do Git
+- git config --global --unset user.email	- Apaga a configuração indicada
+- git config --global user.email		- Adiciona a configuração indicada
+
+-Adicionando um repositório remoto no GitHub
+git remote add origin https://github.com/Merthol/livro-receitas.git
+git branch -M main
+git push -u origin main
+
+- git remote -v					- Lista os repositórios remotos cadastrados
+
+- git push -u origin master			- Empurra os arquivos do repositório local para o repositório remoto
+
+- git pull origin master			- Puxa os arquivos do repositório remoto para o repositório local

@@ -1,0 +1,9 @@
+Iniciando o Git e criando um commit:
+
+- git init	- Inicializa um novo Git
+- git add	- Adiciona as mudanças feitas
+- git commit	- Cria um novo commit
+- git status	- Verifica o status do Git
+
+
+Criando um repositório:

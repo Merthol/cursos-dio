@@ -1,0 +1,66 @@
+Aula 3
+-SHA1
+-Objetos fundamentais
+-Sistema distribuído
+- Segurança
+
+-SHA1: Significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas
+pela NSA (Agência de Segurança Nacional dos EUA).
+A encriptação gera conjunto de caracteres indentificador de 40 dígitos.
+É uma forma curta de representar um arquivo.
+
+-Objetos fundamentais:
+-BLOBS
+-TREES
+-COMMITS
+
+-BLOBS:
+
+Estrutura do blob:
+Blob		<tamanho>
+
+\0
+Conteúdo
+
+ex: comando > echo 'conteudo' | git hash-object --stdin (flag stdin signifa q a funcao espera um arquivo, e estamos enviando texto.)
+    comando > echo -e 'conteudo' | openssl sha1
+Os dois comandos geram chaves sha1 diferentes.
+O Git lida com os arquivos por objetos. Ao gerar a chave sha1 utilizando o Git, ele gera um objeto do tipo blob, contendo
+informações como nome do objeto, tamanho, /0 e o conteúdo do arquivo.
+ex: comand: echo -e 'blob 9\0conteudo' | openssl sha1
+Aoo armazenar o arquivo, o Git também armazena meta dados, em um objeto próprio dele.
+
+-TREES:
+As Tree armazena blobs. É responsável por montar a estrutura de onde está essa estrutura. Podem apontar para blobs ou 
+outras Trees. As próprias árvores também tem o sha1 próprio.
+
+Estrutura da Tree:
+\\\
+Tree		<tamanho>
+\0
+
+Blob chave_sha1 nome_arquivo.txt
+\\\
+
+-COMMIT:
+Commit é o objeto que irá juntar todos os componetes anteriores, dando sentido ao processo. É o hash de toda essa informação.
+Conteúdo: aponta para uma tree e seu sha1, aponta para um parente, o último commit feito antes dele, e seu respectivo sha1,
+aponta para o autor do commit, e aponta para uma mensagem. O autor e a mensagem identificam quem fez a alteração do arquivo
+e qual alteração feita, mensagem criada pelo autor. Possui também um timestamp, o carimbo do tempo de quando ele foi criado.
+Os Commit também possui seu próprio sha1.
+
+Estrutura do Commit:
+\\\
+Commit		<tamanho>
+
+tre	chave_sha1
+parente	chave_sha1
+autor	chave_sha1
+
+mensagem "conteudo"
+
+timestamp
+\\\
+
+Ao fazer a alteração de um arquivo, o Git altera o blob, anterando sua sha1, que consequentemente altera a tree, alterand
+seu sha1, e outras tree relacionadas, além de criar um commit, criando seu próprio sha1.

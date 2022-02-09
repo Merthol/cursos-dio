@@ -1,0 +1,16 @@
+Winndows:
+- cd
+- dir
+- mkdir
+- del / rmdir
+
+Linux:
+- cd
+- ls
+- mkdir
+- rm -rf
+
+- ls -a		- Exibe repositorios e arquivos ocultos
+
+
+echo > file.ext  - cria um arquivo

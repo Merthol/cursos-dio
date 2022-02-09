@@ -8,7 +8,8 @@ Linux:
 - cd
 - ls
 - mkdir
-- rm -rf
+- rm -rf			- Remover arquivos e diretórios
+- mv helloworld.py main.py	- Renomear arquivos
 
 - ls -a		- Exibe repositorios e arquivos ocultos
 

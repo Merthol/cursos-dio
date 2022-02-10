@@ -11,3 +11,5 @@ dotnet new --help
 dotnet run
 
 dotnet build
+
+dotnet restore

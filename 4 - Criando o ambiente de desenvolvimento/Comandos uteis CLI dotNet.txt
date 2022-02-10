@@ -1,0 +1,13 @@
+Comandos:
+
+dotnet --version
+dotnet --help
+dotnet --info
+
+dotnet new --list
+dotnet new --list --tag web
+dotnet new --help
+
+dotnet run
+
+dotnet build

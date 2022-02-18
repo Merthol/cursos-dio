@@ -1,0 +1,35 @@
+Interfaces
+
+Uma interface define um contrato que pode ser implementado por classes e structs.
+
+Uma interface pode conter métodos, propriedades, eventos e indexadores.
+
+Uma interface não fornece implementações dos membros que define - apenas suas "assinaturas".
+
+As interfaces podem empregar herança múltipla.
+
+Exemplo:
+
+interface IControl
+{
+    void Paint();
+}
+interface IListBox
+{
+    void SetText (string text);
+}
+interface IComboBox: IControl, IListBox {}
+
+interface IDataBound
+{
+    void Bind (Binder B);
+}
+public class EditBox: IComboBox, IDataBound
+{
+    public void Paint() {}
+    public void SetText (string text) {}
+    public void Bind (Binder b) {}
+}
+
+Conceitos: inversão de controle (IOC), injeção de dependências.
+

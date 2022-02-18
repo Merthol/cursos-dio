@@ -1,0 +1,45 @@
+Exemplo de classe:
+
+public class Ponto
+{
+    public int x, y;
+    public Ponto(int x, int y)  // Construtor inicializando as variáveis x e y na criação do objeto.
+    {
+        this.x = x;
+        this.y = y;
+    }
+}
+
+Exemplo de chamada da classe:
+
+Ponto p1 = new Ponto(0,0);
+
+ponto p2 = new Ponto(10,20);
+
+
+Os membros de uma classe podem ser estáticos ou membros da instância.
+Membros estáticos pertencem a classe e membros de instância pertencem ao objeto.
+
+Cada membro de uma classe tem uma acessibilidade associada, que controla as regiões do texto do programa que podem acessar
+o membro.
+Podem ser:
+    - public: qualquer parte do código pode acessar o membro, seja ele atributo ou método
+    - protected: apenas a classe base e as classes que herdam a classe base tem acesso aos membros protected.
+    - internal: só pode ser acessado dentro do assembly que criou o membro, basicamente dentro do projeto ao qual ele pertence.
+    - private: o mebro só pode ser acessado pela classe que o criou.
+
+Herança: uma declaração de classe pode especificar uma classe base, herdando os membros public, internal e protected da classe base.
+
+
+Notações de métodos:
+    - static: método pode ser chamado sem instanciar o objeto, apenas pela classe
+    - virtual: permite que classes filhas possam sobrescrever o método da classe base
+    - override: sobrescreve o método em questão na classe filha
+
+Notação ref:
+    - Ao passar como parâmetro, uma referência a uma variável, e não o valor, toda alteração feita dentro do método
+vai alterar a variável fora do método.
+
+Notação out:
+    - Na própria chamada do método, já pode ser indicada as variáveis com a notação out, que serão retornadas preenchidas
+ao fim da execução do método.

@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\10 - Construtores, Propriedades, Delegates e Eventos em dotNET\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache

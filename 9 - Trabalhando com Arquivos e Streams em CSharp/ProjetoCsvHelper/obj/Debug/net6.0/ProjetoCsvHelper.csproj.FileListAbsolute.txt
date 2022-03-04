@@ -1,0 +1,17 @@
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.exe
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.deps.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\bin\Debug\net6.0\ref\ProjetoCsvHelper.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ref\ProjetoCsvHelper.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.genruntimeconfig.cache

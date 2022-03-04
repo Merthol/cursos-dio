@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSFUc9KhSaDLeYCJuE4vL3sF5CD2jxOnBUy6VXy4y2sgdD4RjFRWgeIm15kHvrbR2kg71M8GX3uM75NIMFMBeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Workspace\\cursos-dio\\9 - Trabalhando com Arquivos e Streams em CSharp\\ProjetoCsvHelper\\ProjetoCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.exe
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.deps.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\bin\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\9 - Trabalhando com Arquivos e Streams em CSharp\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.genruntimeconfig.cache

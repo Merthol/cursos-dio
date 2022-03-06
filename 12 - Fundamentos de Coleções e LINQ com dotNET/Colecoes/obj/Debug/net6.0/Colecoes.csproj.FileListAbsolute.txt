@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Users\guilh\OneDrive\Documentos\Workspace\cursos-dio\12 - Fundamentos de Coleções e LINQ com dotNET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
